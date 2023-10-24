@@ -1,2 +1,7 @@
 # 04-pixels
  
+ Throughout my process of completing this assignment, I came across many interesting sketches but the one that I used in particular was https://openprocessing.org/sketch/1972420. I though this was a very interesting, yet no so complicated way to implement various shapes and animate them together. The colors and the arrangement of different pieces came together beautifully. 
+
+ I enjoyed completing this exercise as I am an extremely visually-oriented person and I'm used to writing on paper a lot because of a rather traditional school that I went to. I do think it's partially my habit and partially an established method for us humans to be better at manipulating and storing information in our brains. Writing/drawing things out helps a lot because you're engaging different parts of your brain rather when you're typing on a laptop, for instance. Other people often have troubles with my hand writing because I'm used to writing in cursive but I still implement it very often and always keep a notebook on me. This thinking lead me to the following article that talks more about the phenomenon: https://www.pens.com/blog/the-benefits-of-handwriting-vs-typing/. 
+
+The sketch itself was pretty straightforward to my understanding, it seems very efficient and it manages to accomplish a lot visually with only around 100 lines of code. Speaking of which, a lot of fascinating (sometimes more simple looking) sketches I found on OP, used a lot more lines and files to accomplish similar aesthetic, which I found interesting.
